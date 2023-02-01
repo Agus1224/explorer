@@ -7,6 +7,8 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
+        <img src="logo.png" alt="logo" style="width:100px;height:100px;margin: 12px;" onContextMenu="return false;">
+        
           Alfonova Nodes <small class="flow-left"></small>
         </h1>
       </div>
