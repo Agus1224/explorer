@@ -3,19 +3,19 @@
     <full-header />
     <b-link>
       <div class="d-flex justify-content-center align-items-center">
-        <!--<vuexy-logo />-->
+        <!-- <vuexy-logo /> -->
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
         <img src="logo.png" alt="logo" style="width:100px;height:100px;margin: 12px;" onContextMenu="return false;">
-        
-          Alfonova Nodes <small class="flow-left"></small>
+
+          Alfonova Nodes<small class="flow-left"></small>
         </h1>
       </div>
     </b-link>
 
     <p class="mb-1">
-      PROFESIONAL VALIDATOR ... 🛠
+      Profesional Validator Nodes
     </p>
     <h2 class="mb-3">
       Cosmos Ecosystem Blockchains 🚀
