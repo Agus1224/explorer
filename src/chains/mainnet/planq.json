@@ -1,7 +1,7 @@
 {
     "chain_name": "planq",
-    "api": ["https://rest.planq.network"],
-    "rpc": ["https://rpc.planq.network"],
+    "api": ["https://api.planq.alfonova.app"],
+    "rpc": ["https://rpc.planq.alfonova.app"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "60",
