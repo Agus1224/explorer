@@ -208,7 +208,7 @@
           <b-badge variant="warning">
               &nbsp;
           </b-badge>
-          Top 67% of Voting Power
+          Top 67% of Voting Power1
         </small>
         <download-excel
           :fields="excelCols"
@@ -307,7 +307,7 @@ export default {
         { key: 'description', label: 'Validator' },
         {
           key: 'tokens',
-          label: 'Voting Power',
+          label: 'Voting Power1',
           sortable: true,
           tdClass: 'text-right',
           thClass: 'text-right',
