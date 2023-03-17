@@ -1,0 +1,19 @@
+{
+    "chain_name": "andromeda",
+    "coingecko": "andromeda-network",
+    "api": ["https://api.andromeda.alfonova.app"],
+    "rpc": ["https://rpc.andromeda.alfonova.app"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.12",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "addr_prefix": "andr",
+    "logo": "/logos/andromeda.png",
+    "assets": [{
+        "base": "uandr",
+        "symbol": "ANDR",
+        "exponent": "6",
+        "coingecko_id": "andromeda-network", 
+        "logo": "/logos/andromeda.png"
+    }]
+  }
