@@ -1,5 +1,6 @@
 {
     "chain_name": "planq",
+    "coingecko": "planq-network",
     "api": ["https://api.planq.alfonova.app"],
     "rpc": ["https://rpc.planq.alfonova.app"],
     "snapshot_provider": "",
@@ -13,7 +14,7 @@
         "base": "aplanq",
         "symbol": "planq",
         "exponent": "18",
-        "coingecko_id": "",
+        "coingecko_id": "planq-network",
         "logo": "/logos/planq.png"
     }]
 }
