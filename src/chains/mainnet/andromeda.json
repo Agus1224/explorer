@@ -1,5 +1,5 @@
 {
-    "chain_name": "andromeda",
+    "chain_name": "andromeda-testnet",
     "coingecko": "andromeda-network",
     "api": ["https://api.andromeda.alfonova.app"],
     "rpc": ["https://rpc.andromeda.alfonova.app"],
