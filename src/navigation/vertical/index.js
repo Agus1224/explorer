@@ -33,7 +33,7 @@ function processMenu() {
     chainMenus.push({
       title: 'Website',
       href: 'http://www.alfonova.app',
-      icon: 'LifeBuoyIcon',
+      icon: 'https://i.ibb.co/k68ZjtC/logo.png',
     })
   }
   chainMenus.push({
