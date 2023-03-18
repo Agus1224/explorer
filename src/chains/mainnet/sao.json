@@ -1,0 +1,18 @@
+{
+    "chain_name": "Sao",
+    "api":"https://api-t.sao.alfonova.app",
+    "rpc":"https://rpc-t.sao.alfonova.app",
+    "snapshot_provider": "",
+    "sdk_version": "0.46.6",
+    "coin_type": 118,
+    "min_tx_fee": "5000",
+    "addr_prefix": "sao",
+    "logo": "/logos/sao.png",
+    "assets": [{
+        "base": "sao",
+        "symbol": "SAO",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/sao.png"
+    }]
+}

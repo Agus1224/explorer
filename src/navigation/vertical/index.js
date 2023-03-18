@@ -19,36 +19,31 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: 'https://i.ibb.co/k68ZjtC/logo.png',
     })
   }
   chainMenus.push({ header: 'LINKS' })
   if (isTestnet()) {
     chainMenus.push({
       title: 'Mainnet Explorer',
-      href: 'https://ping.pub',
-      icon: 'ChromeIcon',
+      href: 'https://explorer.alfonova.app',
+      icon: 'https://i.ibb.co/k68ZjtC/logo.png',
     })
   } else {
     chainMenus.push({
-      title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
+      title: 'Website',
+      href: 'http://www.alfonova.app',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/Node_Hunter',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
-    title: 'FAQ',
-    href: 'https://github.com/ping-pub/explorer/discussions',
-    icon: 'MessageSquareIcon',
-  })
-  chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
+    href: 'https://github.com/Alfonova-Node/explorer',
     icon: 'GithubIcon',
   })
 
