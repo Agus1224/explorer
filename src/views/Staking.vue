@@ -2,7 +2,7 @@
   <div>
     <b-card
       v-if="pingVals && pingVals.length > 0"
-      title="❤️ Staking With Alfonova Nodes❤️"
+      title="👑 Staking With Alfonova👑"
       class="overflow-auto"
     >
       <b-table

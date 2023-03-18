@@ -1,5 +1,5 @@
 {
-    "chain_name": "Sao-Testnet",
+    "chain_name": "sao-testnet",
     "api":"https://api.sao.alfonova.app",
     "rpc":"https://rpc.sao.alfonova.app",
     "snapshot_provider": "",
