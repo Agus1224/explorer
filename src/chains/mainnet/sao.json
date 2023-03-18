@@ -1,7 +1,7 @@
 {
     "chain_name": "Sao",
-    "api":"https://api-t.sao.alfonova.app",
-    "rpc":"https://rpc-t.sao.alfonova.app",
+    "api":"https://api.sao.alfonova.app",
+    "rpc":"https://rpc.sao.alfonova.app",
     "snapshot_provider": "",
     "sdk_version": "0.46.6",
     "coin_type": 118,
