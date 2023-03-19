@@ -1,0 +1,21 @@
+
+{
+    "chain_name": "bonusblock",
+    "api": ["https://api.bonusblock.alfonova.app"],
+    "rpc": ["https://rpc.bonusblock.alfonova.app"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "bonus",
+    "logo": "/logos/bonusblock.png",
+    "assets": [
+    {
+        "base": "ubonus",
+        "symbol": "BONUS",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/bonusblock.png"
+    }
+  ]
+}
