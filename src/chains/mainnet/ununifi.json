@@ -1,0 +1,18 @@
+{
+    "chain_name": "ununifi",
+    "coingecko": "ununifi",
+    "api": ["https://api.ununifi.alfonova.app/"],
+    "rpc": ["https://rpc.ununifi.alfonova.app:443"],
+    "addr_prefix": "ununifi",
+    "coin_type": "639",
+    "min_tx_fee": "5000",
+    "logo": "/logos/ununifi.png",
+    "sdk_version": "0.45.1",
+    "assets": [{
+        "base": "uuguu",
+        "symbol": "UNF",
+        "exponent": "6",
+        "coingecko_id": "ununifi", 
+        "logo": "/logos/ununifi.png"
+    }]
+}
